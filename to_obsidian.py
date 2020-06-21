@@ -21,10 +21,10 @@ def run():
     else:
         if arguments.path is not None:
             source_path = arguments.path
-            print(f'using supplied path of "source_path"')
+            print(f'using supplied path of "{source_path}"')
         else:
-            source_path = os.getcwd()
-            print(f'using current folder path (pwd) : "source_path"')
+            source_path = f'{os.getcwd()}/'
+            print(f'using current folder path (pwd) : "{source_path}"')
 
     to_obsidian(source_path=source_path)
 
