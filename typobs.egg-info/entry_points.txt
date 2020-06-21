@@ -1,0 +1,4 @@
+[console_scripts]
+to_obsidian = to_obsidian:run
+to_typora = to_typora:run
+
