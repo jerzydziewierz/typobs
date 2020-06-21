@@ -91,7 +91,12 @@ I use this option personally - I only work on one major project at a time!
 
 Please check my personal website, https://www.rey.wiki
 
+# To-Dos
+* Support the for the link descriptors while in obsidian format `[[descriptor|link ]]`
 
+# Change log
+* 2020-06-20 first release
+* 2020-06-21 bugfix - the `use current folder` will now work better.
 
 ---
 
