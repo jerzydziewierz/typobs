@@ -1,7 +1,11 @@
 # Default ignored files
-.idea
-.obsidian
-.typora
+.idea/
+.obsidian/
+.typora/
+typobs.egg-info/
+PKG-INFO
+__pycache__
+
 
 /shelf/
 /workspace.xml
