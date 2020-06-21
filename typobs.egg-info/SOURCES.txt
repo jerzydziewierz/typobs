@@ -1,7 +1,0 @@
-README.md
-setup.py
-typobs.egg-info/PKG-INFO
-typobs.egg-info/SOURCES.txt
-typobs.egg-info/dependency_links.txt
-typobs.egg-info/entry_points.txt
-typobs.egg-info/top_level.txt
