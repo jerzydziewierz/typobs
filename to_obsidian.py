@@ -3,7 +3,7 @@ def run():
     parses the arguments and runs to_obsidian() function
     :return: spews darnduff to the console.
         """
-    default_source_path = r'/home/mib07150/git/2020_portfolio/PMBOK templates/'
+    default_source_path = r'/home/user/git/2020_portfolio/PMBOK templates/'
     import argparse
     import os
     parser = argparse.ArgumentParser(
@@ -29,7 +29,7 @@ def run():
     to_obsidian(source_path=source_path)
 
 
-def to_obsidian(source_path=r'/home/mib07150/git/2020_portfolio/PMBOK templates/'):
+def to_obsidian(source_path=r'/home/user/git/2020_portfolio/PMBOK templates/'):
     """
     converts all the links inside the .md files to obsidian style, [[link]]
     :param source_path: where to start
